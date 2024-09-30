@@ -31,7 +31,15 @@ namespace Clinica
 
         private void GestMedico_Load(object sender, EventArgs e)
         {
-            
+            int funciona;
+            if(funciona == true)
+            {
+            console.WriteLine("\nPORFIN FUNCIONA")
+            }
+            else
+            {
+            Console.WriteLine("\nFREGATE")
+           }
         }
 
         private void btnvolver_Click(object sender, EventArgs e)
