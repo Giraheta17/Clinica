@@ -42,7 +42,7 @@ namespace Clinica
 
         private void btnsalir_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Application.Exit(); //Esto es para salir
         }
     }
 }
