@@ -17,6 +17,7 @@ namespace Clinica
         {
             InitializeComponent();
         }
+// Esto es una prueba de que se puede conectar el porgrama en GitHUB 
 
         private void gestmedico_fc(object sender, FormClosedEventArgs e)
         {
