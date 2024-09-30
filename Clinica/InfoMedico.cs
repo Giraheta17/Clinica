@@ -20,7 +20,7 @@ namespace Clinica
 
         private void RegistrarMedico_Load(object sender, EventArgs e)
         {
-
+            //hola
         }
 
         private void label4_Click(object sender, EventArgs e)
