@@ -26,7 +26,7 @@ namespace Clinica
 
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
-
+//y aca como se registran los cambios 
         }
 
         private void GestMedico_Load(object sender, EventArgs e)
