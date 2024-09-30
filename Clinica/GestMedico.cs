@@ -17,7 +17,7 @@ namespace Clinica
         {
             InitializeComponent();
         }
-// Esto es una prueba de que se puede conectar el porgrama en GitHUB 
+
 
         private void gestmedico_fc(object sender, FormClosedEventArgs e)
         {
@@ -31,15 +31,7 @@ namespace Clinica
 
         private void GestMedico_Load(object sender, EventArgs e)
         {
-            int funciona;
-            if(funciona == true)
-            {
-            console.WriteLine("\nPORFIN FUNCIONA")
-            }
-            else
-            {
-            Console.WriteLine("\nFREGATE")
-           }
+
         }
 
         private void btnvolver_Click(object sender, EventArgs e)
@@ -51,7 +43,7 @@ namespace Clinica
 
         private void btnsalir_Click(object sender, EventArgs e)
         {
-            Application.Exit(); //Esto es para salir    
+            Application.Exit(); //Esto es para salir  va ahora suerte con el codigo ahi escribis si necesitas ayuda en algo    
         }
     }
 }
