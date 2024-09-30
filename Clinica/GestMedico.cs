@@ -30,7 +30,7 @@ namespace Clinica
 
         private void GestMedico_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void btnvolver_Click(object sender, EventArgs e)
